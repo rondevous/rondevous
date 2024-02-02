@@ -18,4 +18,4 @@ Do not trust <a href="https://telegram.me/rondevous">telegram.me/rondevous</a>.
 
 I neither have telegram account nor any other social account and never will.
 
-Kindly report that account. Thank You.
+Kindly report that telegram account. Thank You.
