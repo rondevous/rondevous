@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Do not trust <a href="telegram.me/rondevous">telegram.me/rondevous</a>.
+Do not trust <a href="https://telegram.me/rondevous">telegram.me/rondevous</a>.
 
 I neither have telegram account nor any other social account and never will.
 
